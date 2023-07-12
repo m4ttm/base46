@@ -15,7 +15,7 @@ return {
   },
 
   ["@constructor"] = {
-    fg = theme.base0C,
+    fg = theme.base0E,
   },
 
   ["@constant"] = {
