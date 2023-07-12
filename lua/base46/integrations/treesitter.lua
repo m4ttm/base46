@@ -95,7 +95,7 @@ return {
   },
 
   ["@parameter"] = {
-    fg = theme.base08,
+    fg = theme.base0D,
   },
 
   ["@reference"] = {
@@ -201,15 +201,15 @@ return {
   },
 
   ["@field"] = {
-    fg = theme.base08,
+    fg = theme.base0D,
   },
 
   ["@field.key"] = {
-    fg = theme.base08,
+    fg = theme.base0D,
   },
 
   ["@property"] = {
-    fg = theme.base08,
+    fg = theme.base0D,
   },
 
   ["@include"] = {
