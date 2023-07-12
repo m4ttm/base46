@@ -95,7 +95,7 @@ return {
   },
 
   ["@parameter"] = {
-    fg = theme.base0D,
+    fg = theme.base08,
   },
 
   ["@reference"] = {
